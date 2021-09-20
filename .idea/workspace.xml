@@ -11,7 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb41f325-8be3-45aa-91bc-3623f866245b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/chong/algorithm/SparseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/mainfest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/test.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +108,7 @@
       <workItem from="1631812776379" duration="35000" />
       <workItem from="1631812884519" duration="16130000" />
       <workItem from="1632097129665" duration="1465000" />
-      <workItem from="1632098631236" duration="4097000" />
+      <workItem from="1632098631236" duration="4908000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb41f325-8be3-45aa-91bc-3623f866245b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IDEA2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yENQuxIt4WLGVINMsOHa9OG12u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithm" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\learnspace\out\production\algorithm" />
+      <recent name="G:\learnspace\out\production\algorithm\com" />
+      <recent name="G:\learnspace" />
+      <recent name="G:\learnspace\out" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chong.algorithm.SparseArray" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chong.algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparseArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb41f325-8be3-45aa-91bc-3623f866245b" name="Default Changelist" comment="" />
+      <created>1631812774429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631812774429</updated>
+      <workItem from="1631812776379" duration="35000" />
+      <workItem from="1631812884519" duration="16130000" />
+      <workItem from="1632097129665" duration="1465000" />
+      <workItem from="1632098631236" duration="4097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1631812930470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1631812930470" />
+    <state x="475" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632100872172">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1632100872172" />
+    <state width="477" height="582" key="DebuggerActiveHint" timestamp="1631888145871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="477" height="582" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1631888145871" />
+    <state x="496" y="109" key="FileChooserDialogImpl" timestamp="1631812804561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="109" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631812804561" />
+    <state width="1483" height="444" key="GridCell.Tab.0.bottom" timestamp="1632096979453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="444" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632096979453" />
+    <state width="1483" height="444" key="GridCell.Tab.0.center" timestamp="1632096979453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="444" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1632096979453" />
+    <state width="1483" height="444" key="GridCell.Tab.0.left" timestamp="1632096979452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="444" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1632096979452" />
+    <state width="1483" height="444" key="GridCell.Tab.0.right" timestamp="1632096979453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="444" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1632096979453" />
+    <state width="1483" height="187" key="GridCell.Tab.1.bottom" timestamp="1632096979450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="187" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632096979450" />
+    <state width="1483" height="187" key="GridCell.Tab.1.center" timestamp="1632096979450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="187" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1632096979450" />
+    <state width="1483" height="187" key="GridCell.Tab.1.left" timestamp="1632096979449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="187" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1632096979449" />
+    <state width="1483" height="187" key="GridCell.Tab.1.right" timestamp="1632096979450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="187" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1632096979450" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1631885631404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1631885631404" />
+    <state x="261" y="81" key="Vcs.Push.Dialog.v2" timestamp="1631894533919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="81" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1631894533919" />
+    <state x="0" y="0" key="new project wizard" timestamp="1631812922338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1631812922338" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1631885790881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1631885790881" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/com/chong/algorithm/SparseArray.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
